@@ -18,14 +18,16 @@
       },
       "properties" : {
           "sensor": "GHGSat-C",
-          "description" : "this is a red laser"
+          "description" : "this is a red laser",
+          "observed_on":123455
       }
     },
     {
       "type": "Feature",
       "properties": {
         "sensor": "GHGSat-C3",
-        "description": "testing the sensor GHGSat-C3"
+        "description": "testing the sensor GHGSat-C3",
+        "observed_on":123455
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
       "type": "Feature",
       "properties": {
         "sensor": "GHGSat-C2",
-        "description": "testing the sensor GHGSat-C2"
+        "description": "testing the sensor GHGSat-C2",
+        "observed_on":123455
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +97,8 @@
       },
       "properties" : {
           "sensor": "GHGSat-D",
-          "description" : "this is a blue laser"
+          "description" : "this is a blue laser",
+          "observed_on":123455
       }
     },
     {
@@ -156,7 +160,8 @@
       },
       "properties" : {
           "sensor": "GHGSat-C3",
-          "description" : "this is a red tomato. It is not a sensor at all"
+          "description" : "this is a red tomato. It is not a sensor at all",
+          "observed_on":123455
       }
     },
     {

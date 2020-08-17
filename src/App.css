@@ -33,6 +33,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
-.Dropdown-root {
+#sensorTypeFilter {
   width: 200px;
 }
